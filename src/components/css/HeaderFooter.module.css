@@ -1,0 +1,20 @@
+nav a{
+    color:#00A619!important;
+}
+.nav_bar_sec{
+    border-bottom:1px solid #00A619;
+}
+.footer_main{
+    background:#00A619;
+    text-align: center;
+    color:white;
+}
+.footer_main a{
+    color:whitesmoke;
+}
+
+.hsec4btn{
+    background-color: #00A619;
+    color:white;
+    border-radius: 3px;
+}
